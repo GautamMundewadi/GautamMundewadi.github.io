@@ -1,8 +1,10 @@
 img {
+    animation-name:enlarge;
+    animation-duration:4s;
     width: 200px;
 }
+
 body{
     text-align: center;
     font-family: "Arial";
-    
 }
